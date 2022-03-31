@@ -28,7 +28,7 @@
     "react-flow-renderer": "^9.6.6",
     "react-hook-form": "^7.10.1",
     "react-popper": "^2.2.5",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "6.3.0",
     "react-tooltip": "^4.2.21"
   },
   "devDependencies": {
